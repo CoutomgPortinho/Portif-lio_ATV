@@ -52,23 +52,7 @@ A página foi construída respeitando rigorosamente a seguinte estrutura:
 - **Formulários Acessíveis**: Todos os campos do formulário foram associados aos seus respectivos `<label>` usando os atributos `for` e `id`.
 - **Dimensões de Mídia**: Foto de perfil padronizada via HTML com `width="150"` e `height="150"`.
 
----
 
-## 📂 Como Executar o Projeto
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   ```
-2. Navegue até o diretório do projeto:
-   ```bash
-   cd nome-do-repositorio
-   ```
-3. Abra o arquivo `index.html` em qualquer navegador web de sua preferência.
-
----
-
-## 👨‍💻 Autor
 
 Desenvolvido por **Seu Nome**  
 Estudante de Desenvolvimento de Sistemas no SENAI A. Jacob Lafer.
